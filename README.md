@@ -1,4 +1,4 @@
-🏆 My Competitive Programming Journey
+#🏆 My Competitive Programming Journey
 Hey there, fellow coder! 👋
 
 Welcome to my personal repository where I’m documenting every problem I solve across various competitive programming platforms. This is where I track my learning, share my solutions, and note down key insights. 🚀
