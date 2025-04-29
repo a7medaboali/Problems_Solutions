@@ -6,7 +6,6 @@ Welcome to my personal repository where I’m documenting every problem I solve 
 ## 📚 Platforms I’ve Been Exploring:
 - **Codeforces**
 - **LeetCode**
-- **CodeChef**
 - **AtCoder**
 - **And maybe more in the future... 🌱**
 
